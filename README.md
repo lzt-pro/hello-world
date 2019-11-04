@@ -6,5 +6,3 @@ Lzt-pro here!I'm a new man in the world of git-hub!
 I should work hard on this field and try my best to learn the tutols!
 
 这是一个测试应用程序，用来测试git的 合并操作
-
-再测试一次，并且这一次删除！
